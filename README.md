@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rovie</h1>
-<h3 align="center">Computer Engineering student specializing in Data Analytics, UI/UX Design, and Software Development. Skilled in Python, C++, Java, C#, ASP.NET, and network tools like Cisco.</h3>
+<h3 align="center">Computer Engineering student specializing in Data Analytics, Data Science, UI/UX Design, and Software Development. Skilled in Python, C++, Java, C#, ASP.NET, and network tools like Cisco.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quainwaltzer&label=Profile%20views&color=57beff&style=flat-square" alt="quainwaltzer" /> </p>
 
